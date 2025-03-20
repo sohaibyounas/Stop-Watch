@@ -15,17 +15,18 @@ body{
 
 .stop-watch{
     width: 90%;
+    height: 250px;
     max-width: 600px;
     background-image: linear-gradient(rgb(0,0,0,0.8), rgb(0,0,0,0.8)), url(images/background.png);
     background-size: cover;
     background-position: center;
     color: #fff;
-    margin: 200px auto 0px;
+    margin: 150px auto 0px;
 }
 
 .stop-watch h1{
-    font: 60px;
-    margin-top: 20px;
+    font-size: 40px;
+    margin-top: 50px;
     font-weight: 300;
 }
 
